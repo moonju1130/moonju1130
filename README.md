@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>신입 백엔드 개발자 이문주</h1>
+  <h1>이문주</h1>
   <br>
   
   <table align="center">
